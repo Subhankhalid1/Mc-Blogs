@@ -1,0 +1,15 @@
+.blogContainer{
+    background-color: #FFF4EC!important;
+}
+.blogHead{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 45px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FA7C26;
+}

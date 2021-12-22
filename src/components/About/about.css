@@ -1,0 +1,12 @@
+.aboutHead{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 38px!important;
+line-height: 45.5px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FA7C26;
+}
